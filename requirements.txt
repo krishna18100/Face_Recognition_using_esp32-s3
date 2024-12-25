@@ -1,0 +1,6 @@
+tensorflow==2.9.1
+numpy==1.22.4
+scikit-learn==1.1.2
+pillow==9.2.0
+platformio==6.1.7
+esptool==4.5.1
